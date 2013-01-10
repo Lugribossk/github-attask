@@ -1,0 +1,10 @@
+{
+    "name": "github-attask"
+  , "version": "0.0.1"
+  , "private": false
+  , "dependencies": {
+      "express": "2.5.8"
+    , "request": ">= 2.9.202"
+    , "zlib": ">= 1.0.5"
+  }
+}
